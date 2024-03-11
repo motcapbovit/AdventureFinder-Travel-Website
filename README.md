@@ -1,4 +1,4 @@
-# AdventureFinder-Travel-Website
+# AdventureFinder Travel Website
 
 Drawing inspiration from popular travel booking platforms such as Booking.com and TripAdvisor, our team, GCL, embarked on the development of AdventureFinder - a simple travel website. Leveraging the robust capabilities of Java, we chose IntelliJ as our IDE to craft the intricate components of the website. Additionally, MySQL serves as the underlying database, ensuring efficient storage and retrieval of crucial travel data.
 
