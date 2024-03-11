@@ -37,3 +37,10 @@ Several images of AdventureFinder:
 - Control Booking:
 
 <img width="500" alt="adminbooking" src="https://github.com/motcapbovit/AdventureFinder-Travel-Website/assets/72774923/c0f7722d-4871-443a-a600-e3be45dbbe97">
+
+## Contact
+[Chi Thanh Dang](https://github.com/motcapbovit), [Thuy Hong Thi Dang](https://github.com/KaytlynDangDS) and Van Nguyen Dinh
+
+Faculty of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam.
+
+20520761@gm.uit.edu.vn, 20520523@gm.uit.edu.vn, 20520657@gm.uit.edu.vn
